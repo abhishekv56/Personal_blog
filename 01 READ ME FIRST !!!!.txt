@@ -1,0 +1,29 @@
+
+
+ADMIN LOGIN DETAILS - PERSONAL BLOG SITE 
+
+Username: admin
+Password: admin
+
+
+
+USER LOGIN DETAILS - PERSONAL BLOG SITE 
+
+Username:lakshman
+Password:Lakshman
+
+
+
+DATABASE NAME "blog_admin_db" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "databasefile" FOLDER
+
+
+
+
+
+
+
+
+
